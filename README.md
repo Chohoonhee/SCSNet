@@ -1,1 +1,0 @@
-# -ECCV-2022-Selection-and-Cross-Similarity-for-Event-Image-Deep-Stereo
